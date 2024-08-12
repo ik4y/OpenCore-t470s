@@ -164,18 +164,18 @@ And that's it, now go ahead and boot the USB drive and Enjoy!
 - [x] Power management / Sleep
 - [x] Graphics Acceleration
 - [x] Trackpoint / Touchpad
+- [x] Built-in Camera
+- [x] Audio (Audio Jack & Speaker)
+- [x] FaceTime / iMessage (iServices)
+- [x] HDMI
+- [x] SIP / FireVault 2
 
 ## Untested 🔄
-
-- [ ] Built-in Camera
-- [ ] Audio (Audio Jack & Speaker)
-- [ ] FaceTime / iMessage (iServices)
-- [ ] HDMI
-- [ ] Automatic OS updates
-- [ ] Handoff / Universal Clipboard
-- [ ] Sidecar (Cable) / AirPlay to Mac
-- [ ] SIP / FireVault 2
 - [ ] USB-C
+- [ ] Sidecar (Cable) / AirPlay to Mac
+
+## Not Working
+- [ ] Airdrop: Airdrop is not working because intel wireless cards doesn't support Airdrop
 
 ## TO-DOs
 
@@ -189,3 +189,7 @@ if you find any bug or have some suggestions then don't hesitate to provide your
 
 - [Open Core Guide](https://dortania.github.io/OpenCore-Install-Guide)
 - [CorpNewt](https://github.com/corpnewt)
+
+
+## License
+MIT - License
