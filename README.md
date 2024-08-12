@@ -174,22 +174,22 @@ And that's it, now go ahead and boot the USB drive and Enjoy!
 - [ ] USB-C
 - [ ] Sidecar (Cable) / AirPlay to Mac
 
-## Not Working
+## Not Working ❌
 - [ ] Airdrop: Airdrop is not working because intel wireless cards doesn't support Airdrop
 
-## TO-DOs
+## TO-DOs 🗓️
 
 - [ ] Upgrade To Venture/Sonoma
 
-## Feedback & Support:
+## Feedback & Support: 
 
 if you find any bug or have some suggestions then don't hesitate to provide your feedback using the discussion tab. Moreover, if you think this repository is useful for you then don't forget to give it a star. Thanks
 
-## Credits
+## Credits 
 
 - [Open Core Guide](https://dortania.github.io/OpenCore-Install-Guide)
 - [CorpNewt](https://github.com/corpnewt)
 
 
-## License
+## License 
 MIT - License
