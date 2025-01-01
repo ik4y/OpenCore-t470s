@@ -157,7 +157,7 @@ And that's it, now go ahead and boot the USB drive and Enjoy!
 
 ## Tested Components ✅
 
-- [x] Intel WiFi & Bluetooth (thanks to air)
+- [x] Intel WiFi & Bluetooth (thanks to **itwlm**)
 - [x] Brightness / Volume Control
 - [x] Battery Information
 - [x] USB Ports
